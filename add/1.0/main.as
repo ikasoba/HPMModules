@@ -8,7 +8,7 @@ ikasoba
 
 %index
 add
-åŠ ç®—å‘½ä»¤
+‰ÁŽZ–½—ß
 %prm
 p1
 p2
