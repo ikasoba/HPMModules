@@ -1,0 +1,2 @@
+*.as linguist-vendored text eol=crlf
+*.hsp text eol=crlf
